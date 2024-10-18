@@ -1,4 +1,4 @@
-# SuvojitHazra.github.io
+# Suvojit Hazra
 
 ### Systems Biologist
 
