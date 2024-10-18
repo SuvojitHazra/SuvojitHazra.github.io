@@ -1,4 +1,6 @@
 # Suvojit Hazra
+![CV1](https://github.com/user-attachments/assets/03c13919-3da3-44d5-a8cd-9eed8d8fe565)
+
 
 ### Systems Biologist
 
