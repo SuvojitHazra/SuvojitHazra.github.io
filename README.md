@@ -3,7 +3,7 @@
 ### Technical Skills: C++, R, MATLAB, Python
 
 ### Education
-Post-Doc, | Wisconsin Institute for Discovery, University of Wisconsin Madison (2023-)
+Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-) <br>
 Ph.D. (Science), Psychophysiology And Computation (Psychology/Physiology/Applied Mathematics) | University of Calcutta (2023) <br>
 M.S. (Pharm.), Pharmacoinformatics | National Institute of Pharmaceutical Education & Research (NIPER) SAS Nagar (2016) <br>
 B.Pharm., Pharmaceutical Technology | Jadavpur University (2014) <br>
