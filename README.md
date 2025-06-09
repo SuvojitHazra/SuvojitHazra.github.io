@@ -19,7 +19,7 @@ I am also an active scientific reviewer for journals and conferences, including 
 Beyond research, I am passionate about science communication, open-source development, and mentoring students in bioinformatics and systems biology.  <br>
 
 ### Education
-Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-) <br>
+Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-Present) <br>
 Ph.D. (Science), Psychophysiology And Computation (Psychology/Physiology/Applied Mathematics) | University of Calcutta (2017-2023) <br>
 M.S. (Pharm.), Pharmacoinformatics | National Institute of Pharmaceutical Education & Research (NIPER) SAS Nagar (2014-2016) <br>
 B.Pharm., Pharmaceutical Technology | Jadavpur University (2010-2014) <br>
