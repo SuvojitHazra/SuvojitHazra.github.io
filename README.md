@@ -4,7 +4,7 @@
 
 ### Biography
 
-I am a Postdoctoral Researcher at the Wisconsin Institute for Discovery, University of Wisconsin–Madison, working in the Roy Lab under the mentorship of Professor [Professor Sushmita Roy](https://biostat.wiscweb.wisc.edu/staff/roy-sushmita/). My research focuses on the development and application of machine learning and network-based methods for analyzing single-cell and bulk multi-omics data, with particular emphasis on gene regulatory networks and evolutionary systems biology in both mammalian and plant systems. <br>
+I am a Postdoctoral Researcher at the Wisconsin Institute for Discovery, University of Wisconsin–Madison, working in the Roy Lab under the mentorship of [Professor Sushmita Roy](https://biostat.wiscweb.wisc.edu/staff/roy-sushmita/). My research focuses on the development and application of machine learning and network-based methods for analyzing single-cell and bulk multi-omics data, with particular emphasis on gene regulatory networks and evolutionary systems biology in both mammalian and plant systems. <br>
 
 I completed my Ph.D. in Systems Biology from the University of Calcutta, where I investigated neurophysiopharmacological mechanisms of human brain networks in health and disease using integrative computational approaches. My research was jointly supervised by [Professor Nilkanta Chakrabarti](https://www.caluniv.ac.in/academic/CPEPA/Nilkanta-Chakrabarti.pdf), a distinguished neurophysiologist from the Department of Physiology, University of Calcutta, who provided critical insights into electrophysiology and translational neuroscience, and [Professor Basant K. Tiwary](https://www.pondiuni.edu.in/faculy_profiles/dr-basant-kumar-tiwary/), a leading bioinformatician from the Department of Bioinformatics, Pondicherry University, who guided the computational modeling and systems biology components. My doctoral work was supported by the DBT-BINC Fellowship (All-India Rank 17), awarded by the Department of Biotechnology, Government of India. <br>
 
@@ -20,9 +20,9 @@ Beyond research, I am passionate about science communication, open-source develo
 
 ### Education
 Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-) <br>
-Ph.D. (Science), Psychophysiology And Computation (Psychology/Physiology/Applied Mathematics) | University of Calcutta (2023) <br>
-M.S. (Pharm.), Pharmacoinformatics | National Institute of Pharmaceutical Education & Research (NIPER) SAS Nagar (2016) <br>
-B.Pharm., Pharmaceutical Technology | Jadavpur University (2014) <br>
+Ph.D. (Science), Psychophysiology And Computation (Psychology/Physiology/Applied Mathematics) | University of Calcutta (2017-2023) <br>
+M.S. (Pharm.), Pharmacoinformatics | National Institute of Pharmaceutical Education & Research (NIPER) SAS Nagar (2014-2016) <br>
+B.Pharm., Pharmaceutical Technology | Jadavpur University (2010-2014) <br>
 
 ### Ph.D. Thesis
 [A Systems Biology Approach for Neurophysiopharmacological Analysis of Human Brain Networks in Health and Disease](https://shodhganga.inflibnet.ac.in/handle/10603/590100)
