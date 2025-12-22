@@ -22,7 +22,9 @@ B.Pharm., Pharmaceutical Technology | Jadavpur University (2010-2014) <br><br>
 • _**Operating systems:**_ MacOS, Windows, Linux, Android <br><br>
 
 
-### Research output at a glance<br><br>
+### Research outputs at a glance<br><br>
+
+### Paradigm-1: Systems Biology and Network Modeling to Identify Therapeutic Targets in Human Disease<br><br>
 
 #### **Systems Biology Network Modeling for Drug Repurposing in Infectious Disease**<br>
 
@@ -35,3 +37,18 @@ The [study](https://doi.org/10.1016/j.lfs.2020.118096) revealed a mechanistic ro
 <img width="446" height="350" alt="image" src="https://github.com/user-attachments/assets/07f11ef0-9557-4179-a19a-161d839652fe" /> <br>
 
 An integrated literature- and database-driven framework, combined with transcriptome analyses, revealed co-expressed gene networks associated with neurological manifestations of COVID-19. The [study](https://www.nature.com/articles/s41598-022-21109-3) provides a systems-level view of SARS-CoV-2–driven neurobiological effects and highlights potential biomarkers and therapeutic targets.
+
+
+### Paradigm-2: Comparative Regulatory Genomics Across Species<br><br>
+
+<img width="430" height="555" alt="image" src="https://github.com/user-attachments/assets/1d2c90f7-fbef-46be-8870-2b85edabc87a" /> <img width="422" height="195" alt="image" src="https://github.com/user-attachments/assets/d32128ae-e1f9-4fb5-8b79-baa2c6e70f22" />
+
+ <br>
+
+A central question in evolutionary biology is how gene regulatory programs diverge across species to generate phenotypic diversity. Using Phylogenetic Dynamic Regulatory Module Networks (PDRMN), which integrates cross-species multi-omics data (RNA-seq, ATAC-seq, ChIP-seq) with phylogenetic relationships, gene regulatory programs were inferred at the module level for five mammalian species. This analysis revealed conserved and lineage-specific transcriptional regulators, evolutionary divergence in enhancer–promoter interactions, and long-term shifts in cardiovascular regulatory networks over ~100 million years.
+
+
+
+
+
+
