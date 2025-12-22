@@ -1,23 +1,34 @@
-# Computational and Systems Biologist
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/6b6d5b72-61e0-434e-acb3-c34e3ab7ae33" /> <br>
 
-### Technical Skills: C++, R, MATLAB, Python
+# Suvojit Hazra, Ph.D.
+## Computational and Systems Biologist
+
 
 ### Biography
 
-My research develops and applies machine learning and network-based methods to analyze single-cell and bulk multi-omics data, focusing on genomic and genetic mechanisms in development, disease, and evolution. My long-term goal is to lead an independent, interdisciplinary research program that creates scalable, interpretable computational frameworks to identify genetic determinants, genomic programs, and the system-level organization of complex biological phenotypes. I hold a Ph.D. in Systems Biology from the University of Calcutta, specializing in neurophysiopharmacological analysis of the human brain in health and disease. My work combines bioinformatics, network biology, and computational genomics to generate data-driven insights into complex biological systems.  <br>
+My research develops and applies machine learning and network-based methods to analyze single-cell and bulk multi-omics data, focusing on genomic and genetic mechanisms in development, disease, and evolution. My long-term goal is to lead an independent, interdisciplinary research program that creates scalable, interpretable computational frameworks to identify genetic determinants, genomic programs, and the system-level organization of complex biological phenotypes. I hold a Ph.D. in Systems Biology from the University of Calcutta, specializing in neurophysiopharmacological analysis of the human brain in health and disease. My work combines bioinformatics, network biology, and computational genomics to generate data-driven insights into complex biological systems.  <br><br>
 
 ### Career Objectives
 
-My objective is to integrate machine learning–driven multi-omics analysis with systems biology in order to identify genetic mechanisms and therapeutic targets relevant to disease, development, and evolution. I seek to bridge computational discovery with experimental validation.
+My objective is to integrate machine learning–driven multi-omics analysis with systems biology in order to identify genetic mechanisms and therapeutic targets relevant to disease, development, and evolution. I seek to bridge computational discovery with experimental validation. <br><br>
 
 ### Education
 Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-Present) <br>
 Ph.D. (Science), Psychophysiology And Computation (Psychology/Physiology/Applied Mathematics) | University of Calcutta (2017-2023) | Ph.D. Thesis: [A Systems Biology Approach for Neurophysiopharmacological Analysis of Human Brain Networks in Health and Disease](https://shodhganga.inflibnet.ac.in/handle/10603/590100) <br>
 M.S. (Pharm.), Pharmacoinformatics | National Institute of Pharmaceutical Education & Research (NIPER) SAS Nagar (2014-2016) <br>
-B.Pharm., Pharmaceutical Technology | Jadavpur University (2010-2014) <br>
+B.Pharm., Pharmaceutical Technology | Jadavpur University (2010-2014) <br><br>
+
+### Computational Skills
+
+• _**Programming:**_ Bash, C++, R, Python, MATLAB <br>
+• _**Omics:**_ Seurat, Scanpy, scVI, LIGER, ArchR <br>
+• _**Molecular Modeling:**_ PyMOL, AutoDock, AMBER, Modeller <br>
+• _**Network Biology:**_ Cytoscape, Enrichr, GO <br>
+• _**Office Tools:**_ MS-Excel, MS-Powepoint, MS-Word, Notepad <br>
+• _**Operating systems:**_ MacOS, Windows, Linux, Android <br><br>
 
 
-### Research output at a glance<br>
+### Research output at a glance<br><br>
 
 #### **Systems Biology Network Modeling for Drug Repurposing in Infectious Disease**<br>
 
