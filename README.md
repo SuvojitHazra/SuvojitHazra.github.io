@@ -1,9 +1,3 @@
-<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/6b6d5b72-61e0-434e-acb3-c34e3ab7ae33" /> <br>
-
-# Suvojit Hazra, Ph.D.
-## Computational and Systems Biologist
-
-
 ### Biography
 
 My research develops and applies machine learning and network-based methods to analyze single-cell and bulk multi-omics data, focusing on genomic and genetic mechanisms in development, disease, and evolution. My long-term goal is to lead an independent, interdisciplinary research program that creates scalable, interpretable computational frameworks to identify genetic determinants, genomic programs, and the system-level organization of complex biological phenotypes. I hold a Ph.D. in Systems Biology from the University of Calcutta, specializing in neurophysiopharmacological analysis of the human brain in health and disease. My work combines bioinformatics, network biology, and computational genomics to generate data-driven insights into complex biological systems.  <br><br>
