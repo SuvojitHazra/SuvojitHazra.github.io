@@ -26,6 +26,8 @@ B.Pharm., Pharmaceutical Technology | Jadavpur University (2010-2014) <br><br>
 
 ### Paradigm-1: Systems Biology and Network Modeling to Identify Therapeutic Targets in Human Disease<br><br>
 
+Using systems biology and network modeling to integrate multi-layer genomic data, uncover co-expression modules, and identify candidate disease genes for therapeutic targeting. <br><br>
+
 #### **Systems Biology Network Modeling for Drug Repurposing in Infectious Disease**<br>
 
 <img width="385" height="312" alt="image" src="https://github.com/user-attachments/assets/a1407d99-3712-4083-8b60-c3a5f64d4dec" /> <br>
@@ -41,11 +43,16 @@ An integrated literature- and database-driven framework, combined with transcrip
 
 ### Paradigm-2: Comparative Regulatory Genomics Across Species<br><br>
 
-<img width="430" height="555" alt="image" src="https://github.com/user-attachments/assets/1d2c90f7-fbef-46be-8870-2b85edabc87a" /> <img width="422" height="195" alt="image" src="https://github.com/user-attachments/assets/d32128ae-e1f9-4fb5-8b79-baa2c6e70f22" />
 
- <br>
+A central question in evolutionary biology is how gene regulatory programs diverge across species to generate phenotypic diversity. Using Phylogenetic Dynamic Regulatory Module Networks (PDRMN), which integrates cross-species multi-omics data (RNA-seq, ATAC-seq, ChIP-seq) with phylogenetic relationships, gene regulatory programs were inferred at the module level for five mammalian species. This [analysis](https://youtu.be/sNHxvUtBWGc?si=ajokA9orU_5Zgv-o) revealed conserved and lineage-specific transcriptional regulators, evolutionary divergence in enhancer–promoter interactions, and long-term shifts in cardiovascular regulatory networks over ~100 million years.
 
-A central question in evolutionary biology is how gene regulatory programs diverge across species to generate phenotypic diversity. Using Phylogenetic Dynamic Regulatory Module Networks (PDRMN), which integrates cross-species multi-omics data (RNA-seq, ATAC-seq, ChIP-seq) with phylogenetic relationships, gene regulatory programs were inferred at the module level for five mammalian species. This analysis revealed conserved and lineage-specific transcriptional regulators, evolutionary divergence in enhancer–promoter interactions, and long-term shifts in cardiovascular regulatory networks over ~100 million years.
+
+### Paradigm-3: Modeling Dynamic Gene Regulatory Networks from single-cell Multi-Omics<br><br>
+
+Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory networks change during dynamic processes during development and disease.
+
+
+
 
 
 
