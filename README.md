@@ -58,7 +58,6 @@ Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory ne
   <img src="https://gc.zgo.at/count?p=suvojithazra" alt="Visitor count" />
 </a>
 
-<script data-goatcounter="https://suvojithazra.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 
 
