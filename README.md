@@ -52,6 +52,11 @@ A central question in evolutionary biology is how gene regulatory programs diver
 Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory networks change during dynamic processes during development and disease.
 
 
+### Visitors <br><br>
+
+<a href="https://hits.seeyoufarm.com">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://suvojithazra.github.io"/>
+</a>
 
 
 
