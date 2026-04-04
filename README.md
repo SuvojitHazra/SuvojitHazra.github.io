@@ -24,7 +24,7 @@ B.Pharm., Pharmaceutical Technology | Jadavpur University (2010-2014) <br><br>
 
 ### Research outputs at a glance<br><br>
 
-### Paradigm-1: Systems Biology and Network Modeling to Identify Therapeutic Targets in Human Disease<br><br>
+### Paradigm-1: Systems and Molecular Modeling to Identify Therapeutic Targets in Human Disease<br><br>
 
 Using systems biology and network modeling to integrate multi-layer genomic data, uncover co-expression modules, and identify candidate disease genes for therapeutic targeting. <br><br>
 
@@ -49,15 +49,15 @@ An integrated literature- and database-driven framework, combined with transcrip
 Neurotransmitter release is tightly regulated at the pre-synaptic compartment, yet the role of endogenous biomolecules like **vitamins and hormones** in this process remains poorly understood. One key question is whether endogenous biomolecules, such as vitamins and hormones, can act at the pre-synaptic compartment of the central nervous system, and whether Synaptotagmin-1 could serve as a viable therapeutic target for neurotransmitter modulation. This theoretical study addresses this by integrating molecular docking and molecular dynamics simulations to evaluate binding at hotspot regions of the Synaptotagmin-1 C2AB domain. This study is currently **under review**.
 
 
-### Paradigm-2: Comparative Regulatory Genomics Across Species<br><br>
+### Paradigm-2: Comparative Regulatory Genomics and Evolution of Gene Regulatory Programs<br><br>
 
 
 A central question in evolutionary biology is how gene regulatory programs diverge across species to generate phenotypic diversity. Using Phylogenetic Dynamic Regulatory Module Networks (PDRMN), which integrates cross-species multi-omics data (RNA-seq, ATAC-seq, ChIP-seq) with phylogenetic relationships, gene regulatory programs were inferred at the module level for five mammalian species. This analysis ([ISCB2024](https://youtu.be/sNHxvUtBWGc?si=ajokA9orU_5Zgv-o); [ISMB/ECCB2025](https://youtu.be/-piwxUQddo8?si=sMcfDWm5AhS4ggvu)) revealed conserved and lineage-specific transcriptional regulators, evolutionary divergence in enhancer–promoter interactions, and long-term shifts in cardiovascular regulatory networks over ~100 million years.
 
 
-### Paradigm-3: Modeling Dynamic Gene Regulatory Networks from single-cell Multi-Omics<br><br>
+### Paradigm-3: Single-Cell Multi-Omics Modeling of Dynamic Gene Regulatory Networks in Development and Disease<br><br>
 
-Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory networks change during dynamic processes during development and disease.
+Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory networks change during dynamic processes during development and disease. I was a contributing author to a [recent review](https://arxiv.org/abs/2602.18854) that synthesizes current approaches for modeling dynamic gene regulatory networks using single-cell multi-omics data.
 
 
 <br>
