@@ -31,20 +31,26 @@ Using systems biology and network modeling to integrate multi-layer genomic data
 #### **Systems Biology Network Modeling for Drug Repurposing in Infectious Disease**<br>
 
 <img width="385" height="312" alt="image" src="https://github.com/user-attachments/assets/a1407d99-3712-4083-8b60-c3a5f64d4dec" /> <br>
-The [study](https://doi.org/10.1016/j.lfs.2020.118096) revealed a mechanistic role for MMP9 in regulating inflammatory and immune responses during SARS-CoV-2 infection and provided a systems biology rationale for host-directed therapeutic strategies and drug repurposing in COVID-19.<br>
+The [study](https://doi.org/10.1016/j.lfs.2020.118096) revealed a mechanistic role for MMP9 in regulating inflammatory and immune responses during SARS-CoV-2 infection and provided a systems biology rationale for host-directed therapeutic strategies and **drug repurposing in COVID-19**.<br>
 
 
 #### **Network Analysis Reveals Candidate Coexpressed Genes for COVID-19–Associated Neurological Effects**<br>
 
 <img width="446" height="350" alt="image" src="https://github.com/user-attachments/assets/07f11ef0-9557-4179-a19a-161d839652fe" /> <br>
 
-An integrated literature- and database-driven framework, combined with transcriptome analyses, revealed co-expressed gene networks associated with neurological manifestations of COVID-19. The [study](https://www.nature.com/articles/s41598-022-21109-3) provides a systems-level view of SARS-CoV-2–driven neurobiological effects and highlights potential biomarkers and therapeutic targets.
+An integrated literature- and database-driven framework, combined with transcriptome analyses, revealed co-expressed gene networks associated with **neurological manifestations of COVID-19**. The [study](https://www.nature.com/articles/s41598-022-21109-3) provides a systems-level view of SARS-CoV-2–driven neurobiological effects and highlights potential biomarkers and therapeutic targets.
+
+#### **Exploring Pre-synaptic Modulation: Binding of Endogenous Biomolecules to Synaptotagmin-1**<br>
+
+<img width="600" height="800" alt="Graphical_abstract" src="https://github.com/user-attachments/assets/286594ca-a187-47e8-965d-d2febc0d20ce" />
+
+Neurotransmitter release is tightly regulated at the pre-synaptic compartment, yet the role of endogenous biomolecules like **vitamins and hormones** in this process remains poorly understood. One key question is whether endogenous biomolecules, such as vitamins and hormones, can act at the pre-synaptic compartment of the central nervous system, and whether Synaptotagmin-1 could serve as a viable therapeutic target for neurotransmitter modulation. This theoretical study addresses this by integrating molecular docking and molecular dynamics simulations to evaluate binding at hotspot regions of the Synaptotagmin-1 C2AB domain. This study is currently **under review**.
 
 
 ### Paradigm-2: Comparative Regulatory Genomics Across Species<br><br>
 
 
-A central question in evolutionary biology is how gene regulatory programs diverge across species to generate phenotypic diversity. Using Phylogenetic Dynamic Regulatory Module Networks (PDRMN), which integrates cross-species multi-omics data (RNA-seq, ATAC-seq, ChIP-seq) with phylogenetic relationships, gene regulatory programs were inferred at the module level for five mammalian species. This [analysis](https://youtu.be/sNHxvUtBWGc?si=ajokA9orU_5Zgv-o) revealed conserved and lineage-specific transcriptional regulators, evolutionary divergence in enhancer–promoter interactions, and long-term shifts in cardiovascular regulatory networks over ~100 million years.
+A central question in evolutionary biology is how gene regulatory programs diverge across species to generate phenotypic diversity. Using Phylogenetic Dynamic Regulatory Module Networks (PDRMN), which integrates cross-species multi-omics data (RNA-seq, ATAC-seq, ChIP-seq) with phylogenetic relationships, gene regulatory programs were inferred at the module level for five mammalian species. This analysis ([ISCB2024](https://youtu.be/sNHxvUtBWGc?si=ajokA9orU_5Zgv-o); [ISMB/ECCB2025](https://youtu.be/-piwxUQddo8?si=sMcfDWm5AhS4ggvu)) revealed conserved and lineage-specific transcriptional regulators, evolutionary divergence in enhancer–promoter interactions, and long-term shifts in cardiovascular regulatory networks over ~100 million years.
 
 
 ### Paradigm-3: Modeling Dynamic Gene Regulatory Networks from single-cell Multi-Omics<br><br>
