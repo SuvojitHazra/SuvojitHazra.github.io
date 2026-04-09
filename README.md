@@ -42,7 +42,7 @@ An integrated literature- and database-driven framework, combined with transcrip
 
 #### **Exploring Pre-synaptic Modulation: Binding of Endogenous Biomolecules to Synaptotagmin-1**<br>
 
-<img width="618" height="397" alt="image" src="https://github.com/user-attachments/assets/01fc42c4-1959-4c58-bc5f-68990d140a85" />
+<img width="618" height="397" alt="image" src="https://github.com/user-attachments/assets/59ea363d-6db2-4a26-a4bb-7ff289ab1643" />
 
 
 Neurotransmitter release is tightly regulated at the pre-synaptic compartment, yet the role of endogenous biomolecules like **vitamins and hormones** in this process remains poorly understood. One key question is whether endogenous biomolecules, such as vitamins and hormones, can act at the pre-synaptic compartment of the central nervous system, and whether Synaptotagmin-1 could serve as a viable therapeutic target for neurotransmitter modulation. This theoretical study addresses this by integrating molecular docking and molecular dynamics simulations to evaluate binding at hotspot regions of the Synaptotagmin-1 C2AB domain. This study is currently **under review**.
