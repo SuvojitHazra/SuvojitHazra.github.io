@@ -56,7 +56,7 @@ A central question in evolutionary biology is how gene regulatory programs diver
 
 ### Paradigm-3: Single-Cell Multi-Omics Modeling of Dynamic Gene Regulatory Networks in Development and Disease<br><br>
 
-Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory networks change during dynamic processes during development and disease. I was a contributing author to a [recent review](https://arxiv.org/abs/2602.18854) that synthesizes current approaches for modeling dynamic gene regulatory networks using single-cell multi-omics data.
+Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory networks change during dynamic processes during development and disease. I was a contributing author to a [recent review](https://www.annualreviews.org/content/journals/10.1146/annurev-genom-120922-103729) that synthesizes current approaches for modeling dynamic gene regulatory networks using single-cell multi-omics data.
 
 
 <br>
