@@ -61,10 +61,16 @@ Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory ne
 
 #### **scMTNI: Dynamic Cell-Type-Specific Gene Regulatory Network Analysis**<br>
 
-<img width="625" height="479" alt="Github" src="https://github.com/user-attachments/assets/4684d058-0432-4682-854f-0676c085c381" />
+<img width="625" height="479" alt="Github" src="https://github.com/user-attachments/assets/4684d058-0432-4682-854f-0676c085c381" /> <br>
 
 Applied scMTNI to single-cell multi-omics data (scRNA-seq and scATAC-seq) from mouse cellular reprogramming to infer dynamic, cell-type-specific gene regulatory networks and identify rewired regulators and associated regulatory programs across cell states. This work is presented in a [book chapter](https://doi.org/10.48550/arXiv.2607.01508) accepted for the Methods in Molecular Biology laboratory protocol series.
 
+#### **MERLIN-P-TFA: Prior- and Activity-Aware Gene Regulatory Network Analysis**<br>
+
+<img width="610" height="586" alt="Github" src="https://github.com/user-attachments/assets/7ce691cc-b6d0-4fe5-b069-ccc595c89e55" />
+ <br>
+
+Applied MERLIN-P-TFA to single-cell multi-omics data (scRNA-seq and scATAC-seq) from mouse cellular reprogramming to integrate regulatory priors with transcription factor activity (TFA), enabling the identification of active regulators and cell-type-specific regulatory programs. This work is published as a [book chapter](https://doi.org/10.48550/arXiv.2607.01791) in the Methods in Molecular Biology laboratory protocol series.
 
 
 I was a contributing author to a [recent review](https://www.annualreviews.org/content/journals/10.1146/annurev-genom-120922-103729) that synthesizes current approaches for modeling dynamic gene regulatory networks using single-cell multi-omics data.
