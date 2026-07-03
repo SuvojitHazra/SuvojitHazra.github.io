@@ -61,9 +61,9 @@ Using single-cell RNA-seq and ATAC-seq data to understand how gene regulatory ne
 
 #### **scMTNI: Dynamic Cell-Type-Specific Gene Regulatory Network Analysis**<br>
 
-<img width="625" height="479" alt="Github" src="https://github.com/user-attachments/assets/138784e4-a3d9-47b4-8b50-1fa606829bc7" />
+<img width="625" height="479" alt="Github" src="https://github.com/user-attachments/assets/4684d058-0432-4682-854f-0676c085c381" />
 
-Applied scMTNI to single-cell multi-omics data (scRNA-seq and scATAC-seq) from mouse cellular reprogramming to infer dynamic, cell-type-specific gene regulatory networks and identify rewired regulators and associated regulatory programs across cell states.
+Applied scMTNI to single-cell multi-omics data (scRNA-seq and scATAC-seq) from mouse cellular reprogramming to infer dynamic, cell-type-specific gene regulatory networks and identify rewired regulators and associated regulatory programs across cell states. This work is presented in a [book chapter](https://doi.org/10.48550/arXiv.2607.01508) accepted for the Methods in Molecular Biology laboratory protocol series.
 
 
 
