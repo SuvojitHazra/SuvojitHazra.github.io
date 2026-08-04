@@ -1,6 +1,6 @@
 ### Summary
 
-I develop machine learning and network-based computational methods to analyze large-scale biological and neurophysiological data, from resting-state EEG to bulk and single-cell multi-omics. My research integrates systems biology, computational neuroscience, and regulatory genomics to uncover the molecular mechanisms underlying human disease, development, and evolution.  <br><br>
+I develop machine learning and network-based computational methods to analyze large-scale biological and neurophysiological data, from resting-state EEG to bulk and single-cell multi-omics. My research integrates systems biology, network science, computational neuroscience, and regulatory genomics to uncover the molecular mechanisms underlying human disease, development, and evolution.  <br><br>
 
 ### Education
 Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-Present) <br>
