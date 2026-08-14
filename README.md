@@ -2,6 +2,8 @@
 
 I develop machine learning and network-based computational methods to analyze large-scale biological and neurophysiological data, from resting-state EEG to bulk and single-cell multi-omics. My research integrates systems biology, network science, computational neuroscience, and regulatory genomics to uncover the molecular mechanisms underlying human disease, development, and evolution.  <br><br>
 
+[Google Scholar Profile](https://scholar.google.com/citations?user=MN-oqIkAAAAJ&hl=en) <br><br>
+
 ### Education
 Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-Present) <br>
 Ph.D. (Science), Psychophysiology And Computation (Psychology/Physiology/Applied Mathematics) | University of Calcutta (2017-2023) | Ph.D. Thesis: [A Systems Biology Approach for Neurophysiopharmacological Analysis of Human Brain Networks in Health and Disease](https://shodhganga.inflibnet.ac.in/handle/10603/590100) <br>
