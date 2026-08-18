@@ -1,3 +1,7 @@
+### Background
+
+I grew up in Konnagar, a vibrant cultural town along the Hooghly River near the City of Joy, Kolkata. Driven by a desire to discover novel cures and targeted therapeutics for human diseases, I began my scientific journey with a Bachelor of Pharmacy at Jadavpur University. To harness data-driven approaches for drug discovery, I transitioned into computational biology during my Master’s in Pharmacoinformatics at NIPER SAS Nagar. Seeking to decipher how complex, resilient biological networks govern disease dynamics and maintain health, I pursued my Ph.D. at the University of Calcutta, applying systems biology and computational modelling to human brain networks. I recently completed my postdoctoral fellowship at the Wisconsin Institute for Discovery (UW–Madison), where I specialized in developing network-based algorithms, comparative regulatory genomics, and single-cell multi-omics frameworks.
+
 ### Summary
 
 I develop machine learning and network-based computational methods to analyze large-scale biological and neurophysiological data, from resting-state EEG to bulk and single-cell multi-omics. My research integrates systems biology, network science, computational neuroscience, and regulatory genomics to uncover the molecular mechanisms underlying human disease, development, and evolution.  <br><br>
