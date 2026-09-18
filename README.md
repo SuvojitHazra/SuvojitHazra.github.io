@@ -9,7 +9,8 @@ I develop machine learning and network-based computational methods to analyze la
 [Google Scholar Profile](https://scholar.google.com/citations?user=MN-oqIkAAAAJ&hl=en) <br><br>
 
 ### Education
-Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-Present) <br>
+Research Scientist | Indian Statistical Institute (2026-Present) <br>
+Post-Doc | Wisconsin Institute for Discovery, University of Wisconsin-Madison (2023-2026) <br>
 Ph.D. (Science), Psychophysiology And Computation (Psychology/Physiology/Applied Mathematics) | University of Calcutta (2017-2023) | Ph.D. Thesis: [A Systems Biology Approach for Neurophysiopharmacological Analysis of Human Brain Networks in Health and Disease](https://shodhganga.inflibnet.ac.in/handle/10603/590100) <br>
 M.S. (Pharm.), Pharmacoinformatics | National Institute of Pharmaceutical Education & Research (NIPER) SAS Nagar (2014-2016) <br>
 B.Pharm., Pharmaceutical Technology | Jadavpur University (2010-2014) <br><br>
